@@ -14,6 +14,7 @@ fakeroot
 file
 flex
 gdb
+gettext-base
 git
 gnupg1-curl
 graphviz
